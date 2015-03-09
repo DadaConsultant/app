@@ -4,16 +4,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.islandClub.app"
-        version   = "1.0.0">
+        version   = "1.0.1">
 
-    <name>Lagos Island Club</name>
+    <name>Island Club</name>
 
     <description>
-        The lagos Island Club Nigeria Mobile Application
+        The Island Club Nigeria Mobile Application
     </description>
 
-    <author href="http://visiteko.com" email="dada_b8@hotmail.com">
-        Dada
+    <author href="http://islandclub.soulsapp.com/" email="contact@soulsapp.com">
+        SoulsApp
     </author>
 
     <preference name="phonegap-version" value="3.6.3" />
